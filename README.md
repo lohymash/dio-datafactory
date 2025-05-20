@@ -2,6 +2,9 @@
 
 Vamos primeiro até nossa Dashboard inicial
 
+![Screenshot 2025-05-20 192818](https://github.com/user-attachments/assets/4e74cc73-bbd7-420f-9fad-bb3228633bcd)
+
+
 Após isso, procure o recurso de Data Factories
 
 Após selecionado Data Factories, clique em Criar
